@@ -1,7 +1,7 @@
 # Hi there, I'm Tanvir Alam 👋
 
-### 🚀 Full Stack Developer | AI Automation | Creator
-*Student | AI Enthusiast | Tech Enthusiast | Tinkerer*
+### 🚀 Full Stack Developer | Tech Enthusiast | Creator
+*Student | AI Enthusiast | AI Automation | Tinkerer*
 
 ---
 
