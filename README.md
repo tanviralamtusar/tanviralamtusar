@@ -10,8 +10,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **[BotBhai](https://chat.botbhai.net/)**, a SaaS webapp.
 - 🌱 I’m currently learning **JavaScript, React, TypeScript, and Git**.
-- 💬 Ask me about **AI Automation, Next.js, and Web Development**.
-- ⚡ **Fun fact:** I started my journey with AI Automation before falling in love with Full-Stack Development.
+- 💬 Ask me about **Tech, AI Automation, and Web Development**.
 - 📫 **How to reach me:** [alamtanvir2006@gmail.com](mailto:alamtanvir2006@gmail.com)
 
 ---
