@@ -3,7 +3,7 @@
 ### 🚀 Full Stack Developer | Tech Enthusiast | Creator
 *Student | AI Enthusiast | AI Automation Expert | Tinkerer*
 
----
+----
 
 ## 💫 About Me
 Here are some ideas to get you started:
