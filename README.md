@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about **Tech, AI Automation, and Web Development**.
 - 📫 **How to reach me:** [alamtanvir2006@gmail.com](mailto:alamtanvir2006@gmail.com)
 
----
+----
 
 ## 🌐 Socials
 <p align="left">
