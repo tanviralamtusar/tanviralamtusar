@@ -8,8 +8,8 @@
 ## 💫 About Me
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on **[BotBhai](https://chat.botbhai.net/)**, a SaaS webapp.
-- 🌱 I’m currently learning **AI, JavaScript, React, TypeScript, and Git, GitHub**.
+- 🔭 I’m currently working on **[BotBhai](https://chat.botbhai.net/)**, a Ai Business Suite.
+- 🌱 I’m currently learning **AI, React, TypeScript, and Git, GitHub**.
 - 💬 Ask me about **Tech, AI Automation, and Web Development**.
 - 📫 **How to reach me:** [alamtanvir2006@gmail.com](mailto:alamtanvir2006@gmail.com)
 
