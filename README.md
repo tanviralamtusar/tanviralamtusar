@@ -1,6 +1,6 @@
 # Hi there, I'm Tanvir Alam 👋
 
-### 🚀 Web Developer | Tech Enthusiast | Creator
+### 🚀 Web Developer | Tech Enthusiast | Content Creator
 *Student | AI Enthusiast | AI Automation Expert | Tinkerer*
 
 ----
