@@ -1,7 +1,7 @@
 # Hi there, I'm Tanvir Alam 👋
 
 ### 🚀 Web Developer | Tech Enthusiast | Content Creator
-*Student | AI Enthusiast | AI Automation Expert | Tinkerer*
+*Student | AI Enthusiast | Tinkerer*
 
 ----
 
