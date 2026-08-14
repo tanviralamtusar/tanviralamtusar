@@ -8,10 +8,10 @@
 ## 💫 About Me
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on **[BotBhai](https://botbhai.net/)**, a Ai Business Suite.
-- 🌱 I’m currently learning **AI, React, TypeScript, and Git, GitHub**.
+- 🔭 I’m actively working on **[BotBhai](https://botbhai.net/)**, a Ai Business Suite.
+- 🌱 I’m currently learning **AI, React, TypeScript, and C, C++**.
 - 💬 Ask me about **Tech, AI Automation, and Web Development**.
-- 📫 **How to reach me:** [tanviralamtusar@gmail.com](mailto:tanviralamtusar@gmail.com)
+- 📫 **How to reach me:** [tanviralam.dev@gmail.com](mailto:tanviralam.dev@gmail.com)
 
 ----
 
