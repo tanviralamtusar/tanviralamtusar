@@ -8,8 +8,8 @@
 ## 💫 About Me
 Here are some ideas to get you started:
 
-- 🔭 I’m actively working on **[BotBhai](https://botbhai.net/)**, a Ai Business Suite.
-- 🌱 I’m currently learning **AI, React, TypeScript, and C, C++**.
+- 🔭 I'm actively working on **[BotBhai](https://botbhai.net/)**, a Ai Business Suite.
+- 🌱 I'm currently learning **AI, React, TypeScript, and C, C++**.
 - 💬 Ask me about **Tech, AI Automation, and Web Development**.
 - 📫 **How to reach me:** [tanviralam.dev@gmail.com](mailto:tanviralam.dev@gmail.com)
 
@@ -40,13 +40,16 @@ Here are some ideas to get you started:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 ### **Backend, AI & Database**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white)
 ![Vapi](https://img.shields.io/badge/Vapi-Voice_AI-blue?style=for-the-badge)
