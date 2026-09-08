@@ -44,6 +44,8 @@ Here are some ideas to get you started:
 
 ### **Backend, AI & Database**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -65,6 +67,17 @@ Here are some ideas to get you started:
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+
+---
+
+## 📚 C Programming
+
+I'm passionate about systems programming and algorithms. Here are some areas I focus on:
+
+- **Data Structures**: Arrays, Linked Lists, Stacks, Queues, Trees, Graphs
+- **Algorithms**: Sorting, Searching, Dynamic Programming, Graph Algorithms
+- **Systems Programming**: Memory Management, File I/O, Pointers, Process Management
+- **Performance Optimization**: Low-level programming for efficient solutions
 
 ---
 
