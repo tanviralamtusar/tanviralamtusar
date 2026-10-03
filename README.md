@@ -74,17 +74,6 @@ Here are some ideas to get you started:
 
 ---
 
-## 📚 C Programming
-
-I'm passionate about systems programming and algorithms. Here are some areas I focus on:
-
-- **Data Structures**: Arrays, Linked Lists, Stacks, Queues, Trees, Graphs
-- **Algorithms**: Sorting, Searching, Dynamic Programming, Graph Algorithms
-- **Systems Programming**: Memory Management, File I/O, Pointers, Process Management
-- **Performance Optimization**: Low-level programming for efficient solutions
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
